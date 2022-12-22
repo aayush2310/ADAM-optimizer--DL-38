@@ -1,0 +1,9 @@
+Adaptive Moment Estimation
+most powerful optimization technique
+ANN,CNN,RNN
+
+ADAM merges the idea of momentum and learning decay.
+
+ADAM->RMSProp->momentum
+try this way-the optimizers
+can do hyperparameter tuning to check which works best.
